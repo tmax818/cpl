@@ -13,10 +13,20 @@
     *output the character just read*
     *read a character*
 
-[simpleio.c](simpleio.c)
+[simpleio.c](./simpleio.c)
 
 ## 1.5.2 character counting
 
-[countchar.c](countchar.c)
+[countchar.c](./countchar.c)
+
+## 1.5.3 line counting
+
+[countline.c](./countline.c)
+
+## 1.5.4 word counting
+
+word = any sequence of characters that does not contain a blank, tab or newline.
+
+[wc.c](./wc.c)
 
 
