@@ -11,3 +11,5 @@
 ### [1.5 character input and output](./ch1/1_5/README.md)
 ### [1.6 arrays](./ch1/1_6/README.md)
 ### [1.7 functions](./ch1/1_7/README.md)
+### [1.8 arguments - call by value](./ch1/1_8/README.md)
+### [1.9 character arrays](./ch1/1_9/README.md)

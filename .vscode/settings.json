@@ -4,9 +4,11 @@
         "countchar",
         "countline",
         "fahr",
+        "maxline",
         "mypow",
         "nother",
         "nwhite",
-        "simpleio"
+        "simpleio",
+        "tgetline"
     ]
 }
